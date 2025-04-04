@@ -8,6 +8,7 @@
 ​​This app assists in the efficient memorization of words and other information. You can prepare questions and answers and create a personalized database with the associated explanations and example sentences. Memorization can be done in various modes; for instance, if you set it to '50 difficult questions,' you can study 50 questions based on past error rates.​ 
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
+![pic](https://github.com/user-attachments/assets/fc4146dd-b7a2-45c4-adaa-8f039976b2f7)
 
 ## Setup 
 To Run:
