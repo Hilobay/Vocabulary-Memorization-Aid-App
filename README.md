@@ -11,26 +11,22 @@
 
 ## Setup 
 To Run:
-1. Double click "My memory.mlappinstall" to install the repo as an app to your MATLAB.
+1. Double-click "My memory.mlappinstall" to install the repo as an app for your MATLAB.
 2. If you want to see the code, go and open "myMemoryGUIApp.mlapp".
 
 Additional information about set up
 
 ### MathWorks Products (https://www.mathworks.com)
 
-Requires MATLAB release R#### or newer
-- [Product1](https://jp.mathworks.com/products/matlab.html)
+Requires MATLAB release R2024b or newer
+- [MATLAB](https://jp.mathworks.com/products/matlab.html)
 
 ## Installation (Optional)
-Double click "My memory.mlappinstall" to install the repo as an app to your MATLAB.
+Double-click "My memory.mlappinstall" to install the repo as an app for your MATLAB.
 
 ## Getting Started 
-The app is intuitive enough to use.
+The app is intuitive enough to use. You can use it, and you'll get used to it right away.
 <!--- List or link to any relevent Documentation to help the user Get Started --->
-
-## Examples
-To learn how to use this in testing workflows, see [Examples](/examples/). 
-<!--- Make sure you have a repo set up correctly if you are to follow this formatting --->
 
 ## License
 <!--- Make sure you have a License.txt within your Repo --->
