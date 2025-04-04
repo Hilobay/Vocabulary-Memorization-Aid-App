@@ -14,8 +14,6 @@ To Run:
 1. Double-click "My memory.mlappinstall" to install the repo as an app for your MATLAB.
 2. If you want to see the code, go and open "myMemoryGUIApp.mlapp".
 
-Additional information about set up
-
 ### MathWorks Products (https://www.mathworks.com)
 
 Requires MATLAB release R2024b or newer
