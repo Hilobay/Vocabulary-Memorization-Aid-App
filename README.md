@@ -1,7 +1,7 @@
 # ​​Vocabulary Memorization Aid App​ 
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-Vocabulary-Memorization-Aid-App) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://github.com/Hilobay/Vocabulary-Memorization-Aid-App&project=myMemoryApp.prj&file=myMemoryGUIApp.mlapp) 
+[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180655-Vocabulary-Memorization-Aid-App) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://github.com/Hilobay/Vocabulary-Memorization-Aid-App&project=myMemoryApp.prj&file=myMemoryGUIApp.mlapp) 
 <!-- Add the "File Exchange" icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 <!-- Add the "Open in MATLAB Online" icon to the README to open a particular file on MATLAB Online --> 
 
